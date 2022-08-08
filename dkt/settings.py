@@ -40,7 +40,6 @@ INSTALLED_APPS = [
 
     'players',
     'games',
-    'invitations',
 
 ]
 
